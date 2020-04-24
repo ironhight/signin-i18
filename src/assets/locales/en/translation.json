@@ -1,0 +1,34 @@
+{ 
+    "languages":"Languages  ",
+    
+    "title_login": "Login to you account",
+    "note_title_login" : "New to BookOke?",
+    "login":"Login",
+    "signup":"Sign up",
+    "input_username_placeholder":"Your email",
+    "input_password_placeholder":" Enter your password",
+    "or_login_faceLocal": "Or",
+    "bnt_login_facebook": "Sign in with Facebook",
+    "bnt_login_google": "Sign in with Google",
+    "forgot_password": "Forgot your password?",
+    "policy_terms1": "By logging in to BookOke, you agree to our ",
+    "policy_terms2": "Terms of use",
+    "policy_terms3": "Privacy Policy",
+    "copyright":"Copyright © 2020 BookOke Inc. All rights reserved.",
+
+    
+    "title_signup" : "Enjoy your 30-day trial",
+    "note_title_signup" : "Already have an account?",
+    "signup_placeholder_fullName": "Your full name",
+    "signup_placeholder_emall": "Your email",
+    "signup_placeholder_password": "Enter your password",
+    "signup_placeholder_repassword": "Re-enter your password",
+    "bnt_signup_facebook": "Sign up with Facebook",
+    "bnt_signup_google": "Sign up with Google",
+    "error_blank_fullName": "Fullname cannot be blank.",
+    "error_blank_email": "Email cannot be blank.",
+    "error_blank_password": "Password cannot be blank.",
+    "error_verify_password": "Confirm Password must be equal to Password."
+
+    
+}

@@ -1,0 +1,35 @@
+{ 
+    "languages": "Ngôn ngữ  ",
+    
+    "title_login": "Đăng nhập tài khoản của bạn",
+    "note_title_login" : "Tài khoản mới với BookOke?",
+    "login": "Đăng nhập",
+    "signup":"Đăng ký tài khoản",
+    "input_username_placeholder":"Email của bạn",
+    "input_password_placeholder":"Nhập mật khẩu của bạn",
+    "or_login_faceLocal": "Hoặc",
+    "bnt_login_facebook": "Đăng nhập với Facebook",
+    "bnt_login_google": "Đăng nhập với Google",
+    "forgot_password": "Quên mật khẩu?",
+    "policy_terms1": "Đăng nhập vào BookOke, bạn đồng ý với",
+    "policy_terms2": " Điều khoản sử dụng",
+    "policy_terms3": "Chính sách bảo mật của chúng tôi",
+    "copyright":"Bản quyền © 2020 BookOke Inc. Mọi quyền được bảo lưu.",
+    
+
+
+    "title_signup": "Tận hưởng dùng thử 30 ngày của bạn",
+    "note_title_signup" : "Bạn đã có tài khoản?",
+    "signup_placeholder_fullName": "Tên đầy đủ của bạn",
+    "signup_placeholder_emall": "Email của bạn",
+    "signup_placeholder_password": "Nhập mật khẩu",
+    "signup_placeholder_repassword": "Nhập lại mật khẩu",
+    "bnt_signup_facebook": "Đăng ký với Facebook",
+    "bnt_signup_google": "Đăng ký với Google",
+    "error_blank_fullName": "Tên không thể để trống.",
+    "error_blank_email": "Email không thể để trống.",
+    "error_blank_password": "Mật khẩu không thể để trống.",
+    "error_verify_password": "Xác nhận mật khẩu thất bại."
+
+
+}

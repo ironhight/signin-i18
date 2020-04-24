@@ -1,0 +1,132 @@
+/*
+layout__login
+   -> layout__login-input
+      -> layout__login-input-userpass
+           -> input 
+           -> p
+   -> layout__login-button
+      -> layout__login-button-login
+           -> button
+      -> layout__login-button-p
+           -> p
+      -> layout__login-button-facegoogle
+         -> layout__login-button-facebook
+         -> layout__login-button-google
+      -> layout__login-button-forgotpassword
+        -> layout__login-button-forgotpassword-link
+ */
+.layout__login{
+    width: 100%;
+
+}
+.layout__login-input-userpass{
+    padding: 0 16px;
+    margin-bottom: 1rem;
+}
+.layout__login-input-userpass>input{
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    border-radius: 25px;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    outline: none;
+}
+.layout__login-input-userpass>p{
+    margin-bottom: 0px;
+    padding: 0 12px;
+    color: #DC4E42;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    float: left;
+}
+.layout__login-button-login{
+    padding: 0 16px;
+    margin-bottom: 16px;
+    height: 43px;
+}
+.layout__login-button-login>button{
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 0.6rem 0px;
+    border: none;
+    font-size: 15px;
+    color: white;
+    background-color: #39b118;
+    border-radius: 25px;
+    outline: none;
+}
+.layout__login-button-login>button:hover{
+    background-image: linear-gradient(to right, transparent 33%, rgba(255, 255, 255, 0.3) 50%, transparent 66%); 
+    background-size: 300% 100%;
+    animation: shine 1s 1 !important;
+
+}
+.layout__login-button-p{
+    text-align: center;
+    margin-top: 10px;
+}
+.layout__login-button-p>p{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+}
+.layout__login-button-facegoogle{
+    padding: 0px 16px;
+    margin-bottom: 16px;
+    
+}
+.layout__login-button-facebook{
+    width: 100%;
+    color: white;
+    background-color: #3B5999;
+    border: none;
+    border-radius: 25px;
+    padding: 0.6rem;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    outline: none;
+}
+.layout__login-button-google{
+    width: 100%;
+    color: white;
+    background-color: #DC4E42;
+    border: none;
+    border-radius: 25px;
+    padding: 0.6rem;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: center;
+    outline: none;
+}
+.layout__login-button-forgotpassword{
+   text-align: center;
+   margin-bottom: 25px;
+  
+}
+.layout__login-button-forgotpassword-link, .layout__login-button-forgotpassword-link:hover, .layout__login-button-forgotpassword-link:active {
+    color: #39b118;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+
+
+
+
+
